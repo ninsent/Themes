@@ -471,6 +471,7 @@ PageContainer > QListView {
     margin-right: 6px;
     min-width: 160px;
     outline: none;
+    qproperty-iconSize: 24px 24px;
 }
 
 PageContainer > QListView::item {
